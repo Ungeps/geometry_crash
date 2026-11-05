@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "time": 600,
+      "kills": 3739,
+      "level": 39,
+      "result": "win"
+    },
+    {
+      "time": 600,
+      "kills": 1374,
+      "level": 22,
+      "result": "win"
+    },
+    {
+      "time": 600,
+      "kills": 328,
+      "level": 5,
+      "result": "boss alive"
+    },
+    {
+      "time": 519,
+      "kills": 2888,
+      "level": 30,
+      "result": "died"
+    },
+    {
+      "time": 121,
+      "kills": 139,
+      "level": 3,
+      "result": "died"
+    }
+  ],
+  "fusions": [
+    "arrow_bomb",
+    "blizzard",
+    "inferno",
+    "laser_storm",
+    "storm_volley"
+  ]
+}
